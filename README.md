@@ -17,7 +17,7 @@ Styling text
 
 | Montag | Dienstag | Mittwoch | Doonerstag | Freitag |
 | ------ | -------- | -------- | ---------- | ------- |
-| col 3 is | Headline2 | Headline3 |
+| col 1 is | right-aligned | Headline3 |
 | col 2 is | Headline2 | Headline3 |
 | Headline1 | Headline2 | Headline3 |
 
